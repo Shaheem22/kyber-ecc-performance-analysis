@@ -1,7 +1,7 @@
 # Post-Quantum Cryptography Performance Analysis for IoT — Kyber vs ECC
 
 > **Course:** Wireless and Mobile Security (CY315) | GIKI  
-> **Team:** Muhammad Shaheem + teammates  
+> **Team:** Muhammad Shaheem, Abdullah Ahtasham, Muhammad Maisam Raza  
 > **Status:** Complete
 
 ---
