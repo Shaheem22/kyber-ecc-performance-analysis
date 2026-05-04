@@ -1,0 +1,3 @@
+algorithm,failure_threshold_percent,failure_cliff_packet_loss_percent,note
+ECC_TLS,90.0,,Failure cliff not reached within tested range
+KYBER_TLS,90.0,,Failure cliff not reached within tested range
