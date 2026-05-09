@@ -58,7 +58,7 @@ The motivation: as quantum computing threatens classical cryptography, **Kyber**
 ├── figures/                          # All generated plots (20 charts)
 │
 ├── report/
-│   ├── WAMS_Overleaf.pdf             # Full research report
+│   ├── WAMS_Report.pdf              # Full research report
 │   └── WAMS_CY315_Presentation.pptx # Final presentation slides
 │
 ├── .gitignore
